@@ -43,11 +43,9 @@ A comprehensive list of my scientific publications organized by category and sor
 
 [7] **C. Clemm**, T. Watanabe, and Y. Kishita, "Linking dynamics in consumer behavior and product life cycles in environmental assessments of shared mobility systems: A literature review," *Procedia CIRP*, vol. 122, 2024, pp. 689-694, doi: 10.1016/j.procir.2024.02.022.
 
-[8] **C. Clemm**, K. Wimalawarne, L. Stobbe, C. Eckstein, and J. Druschke, "A Data-Driven Framework for System-Level Assessment and Ecodesign of AI," presented at **[Conference name and details needed]**.
+[8] **C. Clemm**, L. Amatuni, J. M. Mogollón, and M. Matsumoto, "Modeling effects of smartphone reuse on market-level lifetime and environmental impacts informed by consumer survey data: Preliminary results," in *Prod. Lifetimes Environ. (PLATE2023): Proc.*, K. Niinimäki and K. Cura, Eds. Espoo, Finland: Aalto Univ., 2023, pp. 203-208.
 
-[9] **C. Clemm**, L. Amatuni, J. M. Mogollón, and M. Matsumoto, "Modeling effects of smartphone reuse on market-level lifetime and environmental impacts informed by consumer survey data: Preliminary results," in *Prod. Lifetimes Environ. (PLATE2023): Proc.*, K. Niinimäki and K. Cura, Eds. Espoo, Finland: Aalto Univ., 2023, pp. 203-208.
-
-[10] P. Tecchio, F. Ardente, M. Marwede, **C. Clemm**, G. Dimitrova, and F. Mathieux, "Ecodesign of Personal Computers: An Analysis of the Potentials of Material Efficiency Options," *Procedia CIRP*, vol. 69, Jan. 2018, pp. 716-721, doi: 10.1016/j.procir.2017.11.051.
+[9] P. Tecchio, F. Ardente, M. Marwede, **C. Clemm**, G. Dimitrova, and F. Mathieux, "Ecodesign of Personal Computers: An Analysis of the Potentials of Material Efficiency Options," *Procedia CIRP*, vol. 69, Jan. 2018, pp. 716-721, doi: 10.1016/j.procir.2017.11.051.
 
 ---
 
@@ -91,51 +89,51 @@ A comprehensive list of my scientific publications organized by category and sor
 
 ## Scientific Reports
 
-[28] European Commission: Directorate-General for Environment, United Nations Institute for Training and Research (UNITAR), Fraunhofer IZM, BIO Innovation Service, O. Deubzer, **C. Clemm**, et al., "Study to assess requests for 29 renewal requests concerning one specific EEE category and two (-2-) new exemption requests under the Directive 2011/65/EU -- Final report," Publications Office of the European Union, 2024, doi: 10.2779/434367.
+[27] European Commission: Directorate-General for Environment, United Nations Institute for Training and Research (UNITAR), Fraunhofer IZM, BIO Innovation Service, O. Deubzer, **C. Clemm**, et al., "Study to assess requests for 29 renewal requests concerning one specific EEE category and two (-2-) new exemption requests under the Directive 2011/65/EU -- Final report," Publications Office of the European Union, 2024, doi: 10.2779/434367.
 
-[29] European Commission: Directorate-General for Environment, Bio Innovation Service (BioIS), Fraunhofer-Institute for Reliability and Microintegration (IZM), United Nations Institute for Training and Research (UNITAR), O. Deubzer, **C. Clemm**, et al., "Study to assess requests for renewal of 16 exemptions to Annex IV of Directive 2011/65/EU -- Final report," Publications Office of the European Union, 2022, doi: 10.2779/248998.
+[28] European Commission: Directorate-General for Environment, Bio Innovation Service (BioIS), Fraunhofer-Institute for Reliability and Microintegration (IZM), United Nations Institute for Training and Research (UNITAR), O. Deubzer, **C. Clemm**, et al., "Study to assess requests for renewal of 16 exemptions to Annex IV of Directive 2011/65/EU -- Final report," Publications Office of the European Union, 2022, doi: 10.2779/248998.
 
-[30] European Commission: Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Fraunhofer, Vito, K. Schischke, **C. Clemm**, et al., "Ecodesign preparatory study on mobile phones, smartphones and tablets -- Final report," Publications Office, 2021, doi: 10.2873/175802.
+[29] European Commission: Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Fraunhofer, Vito, K. Schischke, **C. Clemm**, et al., "Ecodesign preparatory study on mobile phones, smartphones and tablets -- Final report," Publications Office, 2021, doi: 10.2873/175802.
 
-[31] European Commission: Directorate-General for Environment, Bio Innovation Service (BioIS), Fraunhofer-Institute for Reliability and Microintegration (IZM), United Nations Institute for Training and Research (UNITAR), O. Deubzer, **C. Clemm**, S. Mudgal, et al., "11th adaptation to scientific and technical progress of exemptions 2(c)(i), 3 and 5(b) of Annex II to Directive 2000/53/EC (ELV) -- Final report," Publications Office, 2021, doi: 10.2779/373311.
+[30] European Commission: Directorate-General for Environment, Bio Innovation Service (BioIS), Fraunhofer-Institute for Reliability and Microintegration (IZM), United Nations Institute for Training and Research (UNITAR), O. Deubzer, **C. Clemm**, S. Mudgal, et al., "11th adaptation to scientific and technical progress of exemptions 2(c)(i), 3 and 5(b) of Annex II to Directive 2000/53/EC (ELV) -- Final report," Publications Office, 2021, doi: 10.2779/373311.
 
-[32] M. Marwede, A. Paukstadt, F. Hofmann, **C. Clemm**, and T. Jokinen, "Förderung ökologischer Produktgestaltung in Ostseeanrainerstaaten: Entwicklung einer transnationalen Lernfabrik zur ökologischen Produktgestaltung," UBA Texte, vol. 104, 2021.
+[31] M. Marwede, A. Paukstadt, F. Hofmann, **C. Clemm**, and T. Jokinen, "Förderung ökologischer Produktgestaltung in Ostseeanrainerstaaten: Entwicklung einer transnationalen Lernfabrik zur ökologischen Produktgestaltung," UBA Texte, vol. 104, 2021.
 
-[33] M. Proske, D. Sánchez, **C. Clemm**, and S.-J. Baur, "Life Cycle Assessment of the Fairphone 3," Berlin, Germany: Fraunhofer IZM, 2020.
+[32] M. Proske, D. Sánchez, **C. Clemm**, and S.-J. Baur, "Life Cycle Assessment of the Fairphone 3," Berlin, Germany: Fraunhofer IZM, 2020.
 
-[34] European Commission: Directorate-General for Environment, Oeko-Institut e.V., Fraunhofer-Institute for Reliability and Microintegration (IZM), Y. Baron, **C. Clemm**, et al., "Study to support the review of the list of restricted substances and to assess a new exemption request under RoHS 2 (Pack 15) -- Final Report," Publications Office of the European Union, 2020.
+[33] European Commission: Directorate-General for Environment, Oeko-Institut e.V., Fraunhofer-Institute for Reliability and Microintegration (IZM), Y. Baron, **C. Clemm**, et al., "Study to support the review of the list of restricted substances and to assess a new exemption request under RoHS 2 (Pack 15) -- Final Report," Publications Office of the European Union, 2020.
 
-[35] **C. Clemm** and K.-D. Lang, "Stärkere Verankerung der Ressourceneffizienz und Abfallvermeidung in produktpolitischen Instrumenten," UBA Texte, vol. 18, 2019.
+[34] **C. Clemm** and K.-D. Lang, "Stärkere Verankerung der Ressourceneffizienz und Abfallvermeidung in produktpolitischen Instrumenten," UBA Texte, vol. 18, 2019.
 
-[36] P. Tecchio, F. Ardente, M. Marwede, **C. Clemm**, G. Dimitrova, and F. Mathieux, "Analysis of material efficiency aspects of personal computers product group," EUR 28394 EN, Publications Office of the European Union, Luxembourg, 2018, ISBN 978-92-79-64944-8 (print), 978-92-79-64943-1 (pdf), doi: 10.2788/89220 (online), 10.2788/679788 (print), JRC105156.
+[35] P. Tecchio, F. Ardente, M. Marwede, **C. Clemm**, G. Dimitrova, and F. Mathieux, "Analysis of material efficiency aspects of personal computers product group," EUR 28394 EN, Publications Office of the European Union, Luxembourg, 2018, ISBN 978-92-79-64944-8 (print), 978-92-79-64943-1 (pdf), doi: 10.2788/89220 (online), 10.2788/679788 (print), JRC105156.
 
-[37] M. Marwede, A. Paukstadt, F. Hofmann, **C. Clemm**, and T. Jokinen, "Promotion of sustainable product development in the Baltic Sea region: development of a transnational learning factory for ecodesign," Fraunhofer Institute for Reliability and Microintegration IZM, Berlin, Germany, 2019.
+[36] M. Marwede, A. Paukstadt, F. Hofmann, **C. Clemm**, and T. Jokinen, "Promotion of sustainable product development in the Baltic Sea region: development of a transnational learning factory for ecodesign," Fraunhofer Institute for Reliability and Microintegration IZM, Berlin, Germany, 2019.
 
-[38] M. Proske, **C. Clemm**, and N. Richter, "Life cycle assessment of the Fairphone 2," Berlin, Germany: Fraunhofer IZM, 2016.
+[37] M. Proske, **C. Clemm**, and N. Richter, "Life cycle assessment of the Fairphone 2," Berlin, Germany: Fraunhofer IZM, 2016.
 
-[39] **C. Clemm**, P. Mählitz, A. Schlösser, V. S. Rotter, and K.-D. Lang, "Umweltwirkungen von wiederaufladbaren Lithium-Batterien für den Einsatz in mobilen Endgeräten der Informations-und Kommunikationstechnik (IKT)," UBA Texte, vol. 52, 2016.
+[38] **C. Clemm**, P. Mählitz, A. Schlösser, V. S. Rotter, and K.-D. Lang, "Umweltwirkungen von wiederaufladbaren Lithium-Batterien für den Einsatz in mobilen Endgeräten der Informations-und Kommunikationstechnik (IKT)," UBA Texte, vol. 52, 2016.
 
 ---
 
 ## Position Papers
 
-[40] **C. Clemm**, E. Poppe, and K. Schischke, "Communicating the carbon savings potential associated with reuse of ICT equipment -- Position paper," Fraunhofer IZM, 2022.
+[39] **C. Clemm**, E. Poppe, and K. Schischke, "Communicating the carbon savings potential associated with reuse of ICT equipment -- Position paper," Fraunhofer IZM, 2022.
 
-[41] K. Schischke, E. Poppe, and **C. Clemm**, "PCR for ICT: A roadmap for advancing and harmonizing LCA on ICT equipment Position paper," Fraunhofer IZM, 2022.
+[40] K. Schischke, E. Poppe, and **C. Clemm**, "PCR for ICT: A roadmap for advancing and harmonizing LCA on ICT equipment Position paper," Fraunhofer IZM, 2022.
 
 ---
 
 ## Works in Progress / Under Review
 
-[42] **C. Clemm**, M. Matsumoto, K. Chinen, Y. Chun, and M. Romadona, "Circular Economy in Practice: The Influence of Second-Hand Stores on Used Electronics Consumption in Japan and Germany," resubmitted to journal after revision.
+[41] **C. Clemm**, M. Matsumoto, K. Chinen, Y. Chun, and M. Romadona, "Circular Economy in Practice: The Influence of Second-Hand Stores on Used Electronics Consumption in Japan and Germany," resubmitted to journal after revision.
 
-[43] **C. Clemm**, L. Amatuni, Y. Chun, D. Moon, and B. Sprecher, "Measuring the Effects of Reuse-Oriented Interventions on Consumption Choice and Environmental Outcomes -- Case Study Smartphones," journal manuscript in preparation.
+[42] **C. Clemm**, L. Amatuni, Y. Chun, D. Moon, and B. Sprecher, "Measuring the Effects of Reuse-Oriented Interventions on Consumption Choice and Environmental Outcomes -- Case Study Smartphones," journal manuscript in preparation.
 
-[44] **C. Clemm**, T. Watanabe, Y. Shimizu, and Y. Kishita, "Simulating Behavioral Transitions and Environmental Outcomes of the Sharing Economy - Case Study Bike-Sharing," journal manuscript in preparation.
+[43] **C. Clemm**, T. Watanabe, Y. Shimizu, and Y. Kishita, "Simulating Behavioral Transitions and Environmental Outcomes of the Sharing Economy - Case Study Bike-Sharing," journal manuscript in preparation.
 
-[45] **C. Clemm**, K. Wimalawarne, L. Stobbe, C. Eckstein, and J. Druschke, "A Data-Driven Framework for System-Level Assessment and Ecodesign of AI," conference manuscript in preparation.
+[44] **C. Clemm**, K. Wimalawarne, L. Stobbe, C. Eckstein, and J. Druschke, "A Data-Driven Framework for System-Level Assessment and Ecodesign of AI," conference manuscript in preparation.
 
-[46] Y. Kishita, R. Koide, and **C. Clemm**, "System Design for Sharing Services," journal manuscript in preparation.
+[45] Y. Kishita, R. Koide, and **C. Clemm**, "System Design for Sharing Services," journal manuscript in preparation.m**, "System Design for Sharing Services," journal manuscript in preparation.
 
 ---
 
@@ -165,13 +163,24 @@ A comprehensive list of my scientific publications organized by category and sor
 ## 🔗 Links and Resources
 
 - **ORCID**: [0000-0002-7610-8187](https://orcid.org/0000-0002-7610-8187)
-- **ResearchGate**: [Profile Link]
-- **Google Scholar**: [Profile Link]
-- **Institution**: Fraunhofer Institute for Reliability and Microintegration (IZM)
+- **ResearchGate**: [Profile Link](https://www.researchgate.net/profile/Christian-Clemm)
+- **Google Scholar**: [Profile Link](https://scholar.google.com/citations?user=otLFV1YAAAAJ&hl=en)
+- **Institution**: The University of Tokyo
 
 ---
 
-**Missing Information:**
+## 📋 Notes on Standardization
+
+**Changes Made for IEEE Compliance:**
+1. **DOI Format**: Standardized to `doi: 10.xxxx/xxxxx` format (IEEE standard)
+2. **Journal Abbreviations**: Applied IEEE journal abbreviation standards
+3. **Author Format**: Consistent first initial, last name format
+4. **Quote Marks**: Standardized to regular double quotes for all titles
+5. **Volume/Issue Format**: Consistent `vol. x, no. x` format
+6. **Page Format**: Standardized to `pp. xxx-xxx` format
+7. **Date Format**: Consistent month abbreviation format
+
+**Information Still Needed:**
 - Conference location for PLATE2025 [5]
 - Conference details for AI framework paper [8]
 - Complete publication details for some position papers
