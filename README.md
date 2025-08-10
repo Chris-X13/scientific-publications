@@ -37,7 +37,7 @@ A comprehensive list of my scientific publications organized by category and sor
 
 ## Conference Papers in International Conferences (Peer-reviewed)
 
-[5] **C. Clemm**, L. Amatuni, Y.-Y. Chun, and D. Moon, "Measuring the Impact of Smartphone Reuse Interventions on Consumer Choice and Product Lifetime: Preliminary Findings," in *Proc. 6th Prod. Lifetimes Environ. Conf. (PLATE2025)*, Jun. 2025. **[Note: Conference location and page numbers needed]**
+[5] **C. Clemm**, L. Amatuni, Y.-Y. Chun, and D. Moon, "Measuring the Impact of Smartphone Reuse Interventions on Consumer Choice and Product Lifetime: Preliminary Findings," in Proc. 6th Prod. Lifetimes Environ. Conf. (PLATE2025), Aalborg, Denmark, Jun. 2025.
 
 [6] T. Watanabe, **C. Clemm**, and Y. Kishita, "Developing an environmental assessment method for sharing business considering consumer behavior: A case study of bike-sharing in Japan," *Procedia CIRP*, vol. 135, 2025, pp. 1265-1270, doi: 10.1016/j.procir.2024.12.147.
 
@@ -168,18 +168,6 @@ A comprehensive list of my scientific publications organized by category and sor
 - **Institution**: The University of Tokyo
 
 ---
-
-## 📋 Notes on Standardization
-
-**Changes Made for IEEE Compliance:**
-1. **DOI Format**: Standardized to `doi: 10.xxxx/xxxxx` format (IEEE standard)
-2. **Journal Abbreviations**: Applied IEEE journal abbreviation standards
-3. **Author Format**: Consistent first initial, last name format
-4. **Quote Marks**: Standardized to regular double quotes for all titles
-5. **Volume/Issue Format**: Consistent `vol. x, no. x` format
-6. **Page Format**: Standardized to `pp. xxx-xxx` format
-7. **Date Format**: Consistent month abbreviation format
-
 **Information Still Needed:**
 - Conference location for PLATE2025 [5]
 - Conference details for AI framework paper [8]
