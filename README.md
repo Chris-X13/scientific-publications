@@ -171,18 +171,7 @@ A comprehensive list of my scientific publications organized by category and sor
 
 ---
 
-## 📋 Notes on Standardization
-
-**Changes Made for IEEE Compliance:**
-1. **DOI Format**: Standardized to `doi: 10.xxxx/xxxxx` format (IEEE standard)
-2. **Journal Abbreviations**: Applied IEEE journal abbreviation standards
-3. **Author Format**: Consistent first initial, last name format
-4. **Quote Marks**: Standardized to regular double quotes for all titles
-5. **Volume/Issue Format**: Consistent `vol. x, no. x` format
-6. **Page Format**: Standardized to `pp. xxx-xxx` format
-7. **Date Format**: Consistent month abbreviation format
-
-**Information Still Needed:**
+**Missing Information:**
 - Conference location for PLATE2025 [5]
 - Conference details for AI framework paper [8]
 - Complete publication details for some position papers
