@@ -168,9 +168,5 @@ A comprehensive list of my scientific publications organized by category and sor
 - **Institution**: The University of Tokyo
 
 ---
-**Information Still Needed:**
-- Conference location for PLATE2025 [5]
-- Conference details for AI framework paper [8]
-- Complete publication details for some position papers
 
 **Last Updated**: August 10, 2025
