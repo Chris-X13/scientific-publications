@@ -133,7 +133,7 @@ A comprehensive list of my scientific publications organized by category and sor
 
 [44] **C. Clemm**, K. Wimalawarne, L. Stobbe, C. Eckstein, and J. Druschke, "A Data-Driven Framework for System-Level Assessment and Ecodesign of AI," conference manuscript in preparation.
 
-[45] Y. Kishita, R. Koide, and **C. Clemm**, "System Design for Sharing Services," journal manuscript in preparation.m**, "System Design for Sharing Services," journal manuscript in preparation.
+[45] Y. Kishita, R. Koide, and **C. Clemm**, "System Design for Sharing Services," journal manuscript in preparation.
 
 ---
 
