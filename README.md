@@ -9,8 +9,8 @@ A comprehensive list of my scientific publications organized by category and sor
 ## 📚 Quick Navigation
 - [Journal Articles](#journal-articles) (4)
 - [Book Chapters](#book-chapters) (1) 
-- [Conference Papers (Peer-reviewed)](#conference-papers-in-international-conferences-peer-reviewed) (6)
-- [Conference Papers (Non-reviewed)](#conference-papers-in-international-conferences-non-reviewed) (17)
+- [Conference Papers (Peer-reviewed)](#conference-papers-in-international-conferences-peer-reviewed) (15)
+- [Conference Papers (Non-reviewed)](#conference-papers-in-international-conferences-non-reviewed) (7)
 - [Scientific Reports](#scientific-reports) (12)
 - [Position Papers](#position-papers) (2)
 - [Works in Progress](#works-in-progress--under-review) (5)
@@ -41,33 +41,19 @@ M. Cordella, F. Alfieri, **C. Clemm**, and A. Berwald, "Durability of smartphone
 
 **C. Clemm**, L. Amatuni, Y.-Y. Chun, and D. Moon, "Measuring the Impact of Smartphone Reuse Interventions on Consumer Choice and Product Lifetime: Preliminary Findings," in Proc. 6th Prod. Lifetimes Environ. Conf. (PLATE2025), Aalborg, Denmark, Jun. 2025.
 
+**C. Clemm**, L. Stobbe, K. Wimalawarne, and J. Druschke, "Towards Green AI: Current Status and Future Research," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-11, doi: 10.23919/EGG62010.2024.10631247.
+
+M. Proske, M. Billaud, **C. Clemm**, D. Sánchez, Y. Lorf, and L. Stobbe, "Investigation of Semiconductor Die Area as a Reference Variable for LCA," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-5, doi: 10.23919/EGG62010.2024.10631237.
+
+**C. Clemm**, T. Watanabe, and Y. Kishita, "Green or Growth? Assessing Consumer Influence on the Environmental Impacts of ICT-Enabled Sharing Economy Businesses," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-7, doi: 10.23919/EGG62010.2024.10631267.
+
+M. Matsumoto, A. Chinen, K. Chinen, **C. Clemm**, C. Pharino, and A. Chaianong, "Unlocking consumer adoption: exploring factors influencing preferences for refurbished smartphones across Japan, Germany, and Thailand," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-5, doi: 10.23919/EGG62010.2024.10631237.
+
 T. Watanabe, **C. Clemm**, and Y. Kishita, "Developing an environmental assessment method for sharing business considering consumer behavior: A case study of bike-sharing in Japan," *Procedia CIRP*, vol. 135, 2025, pp. 1265-1270, doi: 10.1016/j.procir.2024.12.147.
 
 **C. Clemm**, T. Watanabe, and Y. Kishita, "Linking dynamics in consumer behavior and product life cycles in environmental assessments of shared mobility systems: A literature review," *Procedia CIRP*, vol. 122, 2024, pp. 689-694, doi: 10.1016/j.procir.2024.02.022.
 
 **C. Clemm**, L. Amatuni, J. M. Mogollón, and M. Matsumoto, "Modeling effects of smartphone reuse on market-level lifetime and environmental impacts informed by consumer survey data: Preliminary results," in *Prod. Lifetimes Environ. (PLATE2023): Proc.*, K. Niinimäki and K. Cura, Eds. Espoo, Finland: Aalto Univ., 2023, pp. 203-208.
-
-P. Tecchio, F. Ardente, M. Marwede, **C. Clemm**, G. Dimitrova, and F. Mathieux, "Ecodesign of Personal Computers: An Analysis of the Potentials of Material Efficiency Options," *Procedia CIRP*, vol. 69, Jan. 2018, pp. 716-721, doi: 10.1016/j.procir.2017.11.051.
-
----
-
-## Conference Papers in International Conferences (Non-reviewed)
-
-**C. Clemm**, L. Stobbe, K. Wimalawarne, and J. Druschke, "Towards Green AI: Current Status and Future Research," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-11, doi: 10.23919/EGG62010.2024.10631247.
-
-**C. Clemm**, T. Watanabe, and Y. Kishita, "Green or Growth? Assessing Consumer Influence on the Environmental Impacts of ICT-Enabled Sharing Economy Businesses," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-7, doi: 10.23919/EGG62010.2024.10631267.
-
-M. Proske, M. Billaud, **C. Clemm**, D. Sánchez, Y. Lorf, and L. Stobbe, "Investigation of Semiconductor Die Area as a Reference Variable for LCA," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-5, doi: 10.23919/EGG62010.2024.10631237.
-
-M. Matsumoto, A. Chinen, K. Chinen, **C. Clemm**, C. Pharino, and A. Chaianong, "Unlocking consumer adoption: exploring factors influencing preferences for refurbished smartphones across Japan, Germany, and Thailand," in *Proc. 2024 Electron. Goes Green 2024+ (EGG)*, Berlin, Germany, 2024, pp. 1-5, doi: 10.23919/EGG62010.2024.10631237.
-
-**C. Clemm**, M. Matsumoto, Y. Chun, and K. Chinen, "The role of brick-and-mortar second-hand stores in the circular economy of EEE — Preliminary findings in Japan and Germany," in *Proc. 13th Int. Symp. Environ. Conscious Des. Inverse Manuf. (EcoDesign 2023)*, Nara, Japan, Nov. 2023.
-
-M. Billaud, **C. Clemm**, D. Sánchez, M. Proske, M. Jügel, L. Stobbe, N. F. Nissen, and M. Schneider-Ramelow, "ICs as drivers of ICT carbon footprint: an approach to more accurate die size assessment," in *Proc. Going Green CARE INNOVATION 2023*, Vienna, Austria, May 2023.
-
-M. Matsumoto, **C. Clemm**, H. Awazu, and J. Tominaga, "Mobile phone reuse businesses in Japan and an estimation of their environmental load reduction effects," in *Proc. Going Green CARE INNOVATION 2023*, Vienna, Austria, May 2023.
-
-**C. Clemm**, M. Matsumoto, and S.-S. Gan, "Communication of (environmental) data in the electronics refurbishment sector: Survey in Germany, Japan, and Indonesia," in *Proc. 12th Int. Symp. Environ. Conscious Des. Inverse Manuf. (EcoDesign 2021)*, Online, Dec. 2021.
 
 **C. Clemm**, A. Berwald, C. Prewitz, N. F. Nissen, and M. Schneider-Ramelow, "Market Trends in Smartphone Design and Reliability Testing," in *Proc. 2020 Electron. Goes Green 2020+ (EGG)*, Berlin, Germany, 2020, pp. 75-84, ISBN 978-3-8396-1659-8.
 
@@ -77,15 +63,29 @@ M. Proske, **C. Clemm**, D. Sánchez, M. Ballester Salva, M. Jügel, H. Kukuk-Sc
 
 Y. Baron, K. Moch, **C. Clemm**, C.-O. Gensch, A. Koehler, O. Deubzer, and C. Loew, "Review of the List of Restricted Substance (Annex II) of Directive 2011/65/EU (RoHS)," in *Proc. Int. Congr. Electron. Goes Green 2020+*, 2020.
 
+P. Tecchio, F. Ardente, M. Marwede, **C. Clemm**, G. Dimitrova, and F. Mathieux, "Ecodesign of Personal Computers: An Analysis of the Potentials of Material Efficiency Options," *Procedia CIRP*, vol. 69, Jan. 2018, pp. 716-721, doi: 10.1016/j.procir.2017.11.051.
+
+I. Oehme, K. Sperlich, R. Kohlmeyer, S. Prakash, K. Sander, and **C. Clemm**, "Strengthening material efficiency of electrical and electronic equipment," in *Proc. 2016 Electron. Goes Green 2016+ (EGG)*, Berlin, Germany, 2016, pp. 1-8, doi: 10.1109/EGG.2016.7829823.
+
+**C. Clemm**, C. Sinai, C. Ferkinghoff, N. Dethlefs, N. F. Nissen, and K.-D. Lang, "Durability and cycle frequency of smartphone and tablet lithium-ion batteries in the field," in *Proc. 2016 Electron. Goes Green 2016+ (EGG)*, Berlin, Germany, 2016, pp. 1-7, doi: 10.1109/EGG.2016.7829849.
+
+---
+
+## Conference Papers in International Conferences (Non-reviewed)
+
+**C. Clemm**, M. Matsumoto, Y. Chun, and K. Chinen, "The role of brick-and-mortar second-hand stores in the circular economy of EEE — Preliminary findings in Japan and Germany," in *Proc. 13th Int. Symp. Environ. Conscious Des. Inverse Manuf. (EcoDesign 2023)*, Nara, Japan, Nov. 2023.
+
+M. Billaud, **C. Clemm**, D. Sánchez, M. Proske, M. Jügel, L. Stobbe, N. F. Nissen, and M. Schneider-Ramelow, "ICs as drivers of ICT carbon footprint: an approach to more accurate die size assessment," in *Proc. Going Green CARE INNOVATION 2023*, Vienna, Austria, May 2023.
+
+M. Matsumoto, **C. Clemm**, H. Awazu, and J. Tominaga, "Mobile phone reuse businesses in Japan and an estimation of their environmental load reduction effects," in *Proc. Going Green CARE INNOVATION 2023*, Vienna, Austria, May 2023.
+
+**C. Clemm**, M. Matsumoto, and S.-S. Gan, "Communication of (environmental) data in the electronics refurbishment sector: Survey in Germany, Japan, and Indonesia," in *Proc. 12th Int. Symp. Environ. Conscious Des. Inverse Manuf. (EcoDesign 2021)*, Online, Dec. 2021.
+
 **C. Clemm**, J. Emmerich, V. Höller, N. F. Nissen, K.-D. Lang, and K. Schischke, "Benefits and pitfalls of better lifetime data -- the case of batteries in mobile electronic equipment," in *PLATE -- Prod. Lifetimes Environ.: Proc. 3rd PLATE Conf., Berlin, Germany, 18-20 Sept. 2019*, N. F. Nissen and M. Jaeger-Erben, Eds. Berlin, Germany: Universitätsverlag der TU Berlin, 2021, pp. 141-146, ISBN 978-3-7983-3125-9, doi: 10.14279/depositonce-9253.
 
 **C. Clemm**, K. Marquardt, N. Detlefs, and K. Schischke, "Battery Health in a Circular Economy: Embedding an Ageing Model in the Smart Battery System," in *Proc. Going Green - CARE INNOVATION 2018*, Vienna, Austria, Nov. 2018.
 
 **C. Clemm**, F. Bugge, S. Rothenbacher, N. Dethlefs, C. Ferkinghoff, T. Bergunde, and K.-D. Lang, "Material flow of gallium arsenide and risk analysis in the III-V semiconductor industry in Germany," in *Proc. SESHA 39th Annu. Int. High Technol. ESH Symp. Exhib.*, Scottsdale, AZ, USA, 2017.
-
-I. Oehme, K. Sperlich, R. Kohlmeyer, S. Prakash, K. Sander, and **C. Clemm**, "Strengthening material efficiency of electrical and electronic equipment," in *Proc. 2016 Electron. Goes Green 2016+ (EGG)*, Berlin, Germany, 2016, pp. 1-8, doi: 10.1109/EGG.2016.7829823.
-
-**C. Clemm**, C. Sinai, C. Ferkinghoff, N. Dethlefs, N. F. Nissen, and K.-D. Lang, "Durability and cycle frequency of smartphone and tablet lithium-ion batteries in the field," in *Proc. 2016 Electron. Goes Green 2016+ (EGG)*, Berlin, Germany, 2016, pp. 1-7, doi: 10.1109/EGG.2016.7829849.
 
 ---
 
