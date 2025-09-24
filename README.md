@@ -14,7 +14,7 @@ A comprehensive list of my scientific publications organized by category and sor
 - [Scientific Reports](#scientific-reports) (12)
 - [Position Papers](#position-papers) (2)
 - [Works in Progress](#works-in-progress--under-review) (5)
-- [Conference Presentations](#presentations-at-international-conferences-no-paper) (3)
+- [Conference Presentations](#presentations-at-international-conferences-no-paper) (4)
 - [📊 Statistics](#publication-statistics)
 
 ---
@@ -140,6 +140,8 @@ Y. Kishita, **C. Clemm**, and R. Koide, "System Design for Sharing Services," jo
 ---
 
 ## Presentations at International Conferences (No Paper)
+
+Y. Kishita, E. Amasawa, K. Kimita, R. Koide, Y. Sawada, **C. Clemm**, "Transformative scenario design for circular economy (TRACE): A research agenda", The 2025 Green Innovation & Engineering International Conference (2025 GREENIE), 21-24 September 2025, Taipei, Taiwan.
 
 **C. Clemm**, T. Watanabe, and Y. Kishita, "Consumption practices and environmental outcomes in the sharing economy: A cross-country study of bike sharing in Japan and Norway," presented at SCORAI Europe 2025 Conf., Lund, Sweden, Apr. 8-10, 2025, ISBN: 978-91-8104-559-8.
 
