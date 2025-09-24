@@ -7,7 +7,7 @@
 A comprehensive list of my scientific publications organized by category and sorted chronologically (most recent first), formatted in IEEE citation style.
 
 ## 📚 Quick Navigation
-- [Journal Articles](#journal-articles) (3)
+- [Journal Articles](#journal-articles) (4)
 - [Book Chapters](#book-chapters) (1) 
 - [Conference Papers (Peer-reviewed)](#conference-papers-in-international-conferences-peer-reviewed) (6)
 - [Conference Papers (Non-reviewed)](#conference-papers-in-international-conferences-non-reviewed) (17)
