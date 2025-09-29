@@ -21,7 +21,7 @@ A comprehensive list of my scientific publications organized by category and sor
 
 ## Journal Articles
 
-**C. Clemm**, M. Matsumoto, K. Chinen, Y. Chun, and M. Romadona, "Circular Economy in Practice: The Influence of Second-Hand Stores on Used Electronics Consumption in Japan and Germany," accepted for publication in the Journal of Cleaner Production.
+**C. Clemm**, M. Matsumoto, K. Chinen, Y.-Y. Chun, and M. Romadona, "Circular economy in practice: The influence of second-hand stores on used electronics consumption in Japan and Germany," J. Clean. Prod., vol. 527, p. 146717, 2025, doi: 10.1016/j.jclepro.2025.146717.
 
 L. Amatuni, T. Yamamoto, C. P. Baldé, **C. Clemm**, and J. M. Mogollón, "Quantifying total lifetimes of consumer products: Stochastic modelling accounting for second-hand use and establishing an open-collaborative database," *Resour. Conserv. Recycl.*, vol. 197, Oct. 2023, Art. no. 107103, doi: 10.1016/j.resconrec.2023.107103.
 
