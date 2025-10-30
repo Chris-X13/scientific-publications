@@ -151,19 +151,6 @@ T. Watanabe, **C. Clemm**, and Y. Kishita, "Integrating consumer behavior analys
 
 ---
 
-## Publication Statistics
-- **Total Publications**: 49
-- **Journal Articles**: 3
-- **Book Chapters**: 1
-- **Conference Papers (Peer-reviewed)**: 6
-- **Conference Papers (Non-reviewed)**: 17
-- **Scientific Reports**: 12
-- **Position Papers**: 2
-- **Works in Progress**: 5
-- **Conference Presentations**: 3
-
----
-
 ## 🔗 Links and Resources
 
 - **ORCID**: [0000-0002-7610-8187](https://orcid.org/0000-0002-7610-8187)
@@ -173,4 +160,4 @@ T. Watanabe, **C. Clemm**, and Y. Kishita, "Integrating consumer behavior analys
 
 ---
 
-**Last Updated**: August 10, 2025
+**Last Updated**: October 30, 2025
