@@ -7,19 +7,21 @@
 A comprehensive list of my scientific publications organized by category and sorted chronologically (most recent first), formatted in IEEE citation style.
 
 ## 📚 Quick Navigation
-- [Journal Articles](#journal-articles) (4)
+- [Journal Articles](#journal-articles) (5)
 - [Book Chapters](#book-chapters) (1) 
 - [Conference Papers (Peer-reviewed)](#conference-papers-in-international-conferences-peer-reviewed) (15)
 - [Conference Papers (Non-reviewed)](#conference-papers-in-international-conferences-non-reviewed) (7)
 - [Scientific Reports](#scientific-reports) (12)
 - [Position Papers](#position-papers) (2)
-- [Works in Progress](#works-in-progress--under-review) (5)
+- [Works in Progress](#works-in-progress--under-review) (4)
 - [Conference Presentations](#presentations-at-international-conferences-no-paper) (4)
 - [📊 Statistics](#publication-statistics)
 
 ---
 
 ## Journal Articles
+
+Y. Kinoshita, **C. Clemm**, and R. Koide, "System Design for Sharing Business [シェアリングビジネスのシステムデザイン]," Japan LCA Journal, vol. 21, no. 4, pp. 219-227, Oct. 2025, doi: 10.3370/lca.21.219.
 
 **C. Clemm**, M. Matsumoto, K. Chinen, Y.-Y. Chun, and M. Romadona, "Circular economy in practice: The influence of second-hand stores on used electronics consumption in Japan and Germany," J. Clean. Prod., vol. 527, p. 146717, 2025, doi: 10.1016/j.jclepro.2025.146717.
 
@@ -134,8 +136,6 @@ L. Amatuni, **C. Clemm**, J.M. Mogollón, A. Tukker, "Revealing production and c
 **C. Clemm**, T. Watanabe, Y. Shimizu, and Y. Kishita, "Simulating Behavioral Transitions and Environmental Outcomes of the Sharing Economy - Case Study Bike-Sharing," journal manuscript in preparation.
 
 **C. Clemm**, K. Wimalawarne, L. Stobbe, C. Eckstein, and J. Druschke, "A Data-Driven Framework for System-Level Assessment and Ecodesign of AI," conference manuscript in preparation.
-
-Y. Kishita, **C. Clemm**, and R. Koide, "System Design for Sharing Services," journal manuscript in preparation.
 
 ---
 
